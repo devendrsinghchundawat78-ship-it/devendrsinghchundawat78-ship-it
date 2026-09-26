@@ -1,6 +1,6 @@
 <div align="center">
 
-# Devraj 💞
+# Devendr Singh Chundawat (Devraj)
 
 **Developer • App Builder • NETMAX • Android & React Native**
 
@@ -13,7 +13,7 @@
 
 ## 👋 About me
 
-Namaste! I'm **Devraj Banna** (Devraj 💞) — an app developer & app builder who loves crafting **Android & React Native** apps. My main project is **NETMAX**, a Netflix-style OTT streaming platform — and I'm always building something new. 🚀
+Namaste! I'm **Devendr Singh Chundawat**, also known as **Devraj**. I build Android, React Native, and web apps. My main project is **NETMAX**, a streaming app, and I'm always working on something new.
 
 - 🔭 **Currently building:** [NETMAX](https://github.com/devendrsinghchundawat78-ship-it/Netmax) — Premium OTT Streaming App
 - 📱 **Platforms:** Android • React Native • Web
