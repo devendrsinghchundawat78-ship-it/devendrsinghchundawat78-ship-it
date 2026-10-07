@@ -1,4 +1,4 @@
-<img src="banner.png?v=silver20261007" width="100%" alt="Devendr Singh Chundawat (Devraj) - Indie Android Developer"/>
+<img src="https://raw.githubusercontent.com/devendrsinghchundawat78-ship-it/devendrsinghchundawat78-ship-it/f83d4c97ea01f0c2ff445000c356e585694c483a/banner.png" width="100%" alt="Devendr Singh Chundawat (Devraj) - Indie Android Developer"/>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 </td>
 <td width="48%" valign="top">
 
-<img src="about-card.png?v=silver20261007" width="100%" alt="devraj.kt"/>
+<img src="https://raw.githubusercontent.com/devendrsinghchundawat78-ship-it/devendrsinghchundawat78-ship-it/f83d4c97ea01f0c2ff445000c356e585694c483a/about-card.png" width="100%" alt="devraj.kt"/>
 
 </td>
 </tr>
@@ -35,8 +35,8 @@
 <div align="center">
 <table>
   <tr>
-    <td><a href="https://github.com/devendrsinghchundawat78-ship-it/Netmax-apk-web"><img src="netmax-card.png?v=silver20261007" width="390" alt="NETMAX"/></a></td>
-    <td><a href="https://getmimo.netlify.app/"><img src="mimo-card.png?v=silver20261007" width="390" alt="Mimo"/></a></td>
+    <td><a href="https://github.com/devendrsinghchundawat78-ship-it/Netmax-apk-web"><img src="https://raw.githubusercontent.com/devendrsinghchundawat78-ship-it/devendrsinghchundawat78-ship-it/f83d4c97ea01f0c2ff445000c356e585694c483a/netmax-card.png" width="390" alt="NETMAX"/></a></td>
+    <td><a href="https://getmimo.netlify.app/"><img src="https://raw.githubusercontent.com/devendrsinghchundawat78-ship-it/devendrsinghchundawat78-ship-it/f83d4c97ea01f0c2ff445000c356e585694c483a/mimo-card.png" width="390" alt="Mimo"/></a></td>
   </tr>
 </table>
 </div>
@@ -76,4 +76,4 @@
 
 </div>
 
-<img src="footer.png?v=silver20261007" width="100%"/>
+<img src="https://raw.githubusercontent.com/devendrsinghchundawat78-ship-it/devendrsinghchundawat78-ship-it/f83d4c97ea01f0c2ff445000c356e585694c483a/footer.png" width="100%"/>
